@@ -4,6 +4,10 @@
 
 ---
 
+```php
+<?php require_once('README.md'); ?>
+```
+
 ## 💬 about me
 * 17 yo and french student
 * passionate about digital, IT and web development
