@@ -16,7 +16,7 @@
 
 ## 💻 my works
 * <a href="https://naahel.github.io/sae105_html/">SAE105</a> - a website about french soccer team, in the school context
-* <a href="https://naahel.github.io/rpgcity/">RPG City</a> - responsive sketch of an early site for a school rpg
+* <a href="https://naahel.github.io/rpgcity/">RPG City</a> - a responsive sketch of an early site for a school rpg
 * *the best to come..*
 
 ## 📲 social networks
