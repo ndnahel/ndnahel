@@ -1,6 +1,6 @@
 ## 🍿 hi, what's up ?
 
-<img src="https://media.discordapp.net/attachments/1068111637753643079/1073303292458844271/image0.jpg" style="height: 200px;">
+<img src="https://cdn.discordapp.com/attachments/1078364666599845888/1078365551505707138/image0.png" style="height: 200px;">
 
 ---
 
