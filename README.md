@@ -24,6 +24,6 @@
 ``HTML5`` ``CSS3`` ``JavaScript`` ``React`` ``Python`` ``PHP`` ``Docker`` ``Photoshop`` ``Illustrator`` ``Linux`` 
 
 ## 📲 social networks
-* (++) discord : `Nahel#5555`
+* (++) discord : `bresom#5555`
 * instagram : <a href="https://instagram.com/nahelartiste" target="_blank">`@nahelartiste`</a>
 * twitter : `/`
