@@ -1,11 +1,17 @@
-## 🍿 hi, what's up ?
+## 🍿 hiiii, what's up ?
 
 <img src="https://cdn.discordapp.com/attachments/1078364666599845888/1078365551505707138/image0.png" style="height: 200px;">
 
 ---
 
-```php
-<?php require_once('README.md'); ?>
+```js
+ function App() {
+  return (
+    <React.Fragment>
+      <ReadMe />
+    </React.Fragment>
+  )
+}
 ```
 
 ## 💬 about me
@@ -14,9 +20,8 @@
 * more and more music and food addict
 * working on macOS & linux
 
-## 💻 my works
-* <a href="https://naahel.github.io/sae105_html/">SAE105</a> - a website about french soccer team, in the school context
-* *the best to come..*
+## 💻 skills
+``HTML5`` ``CSS3`` ``JavaScript`` ``React`` ``Python`` ``PHP`` ``Docker`` ``Photoshop`` ``Illustrator`` ``Linux`` 
 
 ## 📲 social networks
 * (++) discord : `Nahel#5555`
