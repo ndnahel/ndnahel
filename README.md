@@ -7,9 +7,7 @@
 ```js
  function App() {
   return (
-    <React.Fragment>
-      <Header /><ReadMe />
-    </React.Fragment>
+    <ReadMe />
   )
 }
 ```
