@@ -13,7 +13,6 @@
 ## 💬 - about me -
 * 17 yo and french student
 * passionate about digital, IT and web development
-* more and more music and food addict
 * working on macOS & linux
 
 ## 💻 - skills -
