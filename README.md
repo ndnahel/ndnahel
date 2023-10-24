@@ -1,4 +1,4 @@
-# &lt; Nahel /&gt; (aka Nelly)
+# Nahel
 
 ![](https://komarev.com/ghpvc/?username=Naahel&base=0)
 
