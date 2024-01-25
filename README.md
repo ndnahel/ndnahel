@@ -21,4 +21,6 @@ Currently pursuing a degree in Multimedia and Internet Technologies (BUT Métier
 
 ---
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/998326341487304845)](https://discord.com/users/998326341487304845)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=nahelv&base=68)
