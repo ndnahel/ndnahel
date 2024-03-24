@@ -9,8 +9,8 @@ Currently pursuing a degree in Multimedia and Internet Technologies (BUT Métier
 ---
 
 ## 💻 Technologies used
-- **Languages** : HTML5, CSS3 (+ SASS/SCSS), JavaScript, PHP, Python, SQL
-- **Frameworks** : Bootstrap, Symfony, Laravel, React, NodeJS
+- **Languages** : HTML5, CSS3 (+ SASS/SCSS), JavaScript, PHP, Python, SQL, C#
+- **Frameworks** : Bootstrap, Symfony, Laravel, React, NodeJS, Vue.js
 - **DevOps** : Docker, Git, Ansible, GitHub Actions
 - **Tools** : Photoshop, Illustrator, Figma, PhpStorm, VSCode, GitHub, Shell
 - **OS** : MacOS, Linux (Debian/Ubuntu), Windows 11
