@@ -1,6 +1,6 @@
 # Hey there ! 👋
 
-I'm Nelly, an 18 years old junior fullstack developer from Bordeaux, in France.
+I'm Nelly, an 19 years old junior fullstack developer from Bordeaux, in France.
 
 Currently pursuing a degree in Multimedia and Internet Technologies (BUT Métiers du Multimédia et de l'Internet), I specialize in the "Web Development and Interactive Systems" track !
 
