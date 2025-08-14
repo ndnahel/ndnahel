@@ -1,6 +1,6 @@
 # Hey there ! 👋
 
-I'm Nelly, a 19 years old junior fullstack developer from Bordeaux, in France.
+I'm Nelly, a 20 years old junior fullstack developer from Bordeaux, in France.
 
 [E-mail](mailto:ndnahel@gmail.com)
 
