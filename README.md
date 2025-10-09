@@ -36,6 +36,5 @@ I'm Nelly, a 20 years old junior fullstack developer from Bordeaux, in France.
 
 ![Statistiques Github](https://github-readme-stats.vercel.app/api/top-langs/?username=ndnahel&layout=compact&theme=buefy&hide_border=true)  
 ![ndnahel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndnahel&show_icons=true&theme=radical)  
-[![Discord Presence](https://lanyard.cnrad.dev/api/998326341487304845)](https://discord.com/users/998326341487304845)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nahelv&base=68)
