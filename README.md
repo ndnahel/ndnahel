@@ -1,40 +1,69 @@
-# Hey there ! 👋
+# Salut 👋, moi c’est Nelly *(ou Nahel)*
 
-I'm Nelly, a 20 years old junior fullstack developer from Bordeaux, in France.
+### 🚀 À propos de moi / About Me
 
-[E-mail](mailto:ndnahel@gmail.com)
+Je suis une **développeuse full-stack junior** basée à **Bordeaux, France**, passionnée par le **développement web**, les **interfaces modernes** et les **projets techniques un peu stylés**.
 
----
+Mon objectif :
+* Concevoir des applications **robustes et maintenables**, aussi bien côté front que back.
+* Continuer à apprendre, expérimenter et **monter en compétences** sur des stacks modernes.
+* Créer des projets concrets, utiles et parfois orientés **gaming / interactif**.
 
-<details>
-  <summary>💻 Technologies I use</summary>
-    
-  - **Languages** :  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+> 💬 **Une idée, un projet ou une question ?**  
+> N’hésite pas à me contacter, j’échange toujours avec plaisir autour du développement.
 
-  - **Frameworks / Libraries** :  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NuxtJS](https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![Three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-  - **DevOps / Backend** :  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![PM2](https://img.shields.io/badge/pm2-%23000000.svg?style=for-the-badge&logo=pm2&logoColor=white)
-
-  - **Tools** :  
-![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-  - **OS** :  
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
-</details>
-
-<details>
-  <summary>💼 Recent projects</summary>
-
-  * <i>Nothing to show yet.</i>
-</details>
+📫 **Contact** : [ndnahel@gmail.com](mailto:ndnahel@gmail.com)
 
 ---
 
-![Statistiques Github](https://github-readme-stats.vercel.app/api/top-langs/?username=ndnahel&layout=compact&theme=buefy&hide_border=true)  
-![ndnahel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndnahel&show_icons=true&theme=radical)  
+### 🎓 Mon Parcours
 
-![Profile Views](https://komarev.com/ghpvc/?username=nahelv&base=68)
+* **Développeuse Full-Stack Junior diplômée d'un BAC +3**
+* Formation orientée **développement web & dispositifs interactifs**
+* À l’aise aussi bien en **front-end moderne** qu’en **back-end structuré**
+* Intérêt particulier pour :
+  * les architectures propres
+  * les API
+  * les performances
+  * et le rendu visuel
+
+---
+
+### 💻 Tech Stack & Outils
+
+Voici les technologies avec lesquelles je travaille régulièrement :
+
+| Catégorie | Technologies |
+| :--- | :--- |
+| **Langages** | HTML, CSS, SASS, JavaScript, TypeScript, PHP, Python, C#, SQL |
+| **Frameworks / Libs** | Symfony, Laravel, React, Vue.js, NuxtJS, Bootstrap, TailwindCSS, Three.js |
+| **Back & API** | Node.js, Express.js, MySQL |
+| **DevOps & Infra** | Docker, Nginx, PM2, Ansible, GitHub Actions |
+| **Outils** | VS Code, PhpStorm, Postman, Figma, Photoshop |
+| **OS** | Windows 11, macOS, Linux (Debian / Ubuntu) |
+
+---
+
+### 🌱 Projets Actuels & À Venir / Current & Future Projects
+
+* **Applications web full-stack** (Symfony / Vue / Nuxt)
+* **APIs REST** avec authentification
+* **Projets orientés gaming & GTA RP**
+* **Expérimentations créatives** (Three.js, interfaces interactives)
+
+> *À venir* : approfondissement du **DevOps**, optimisation back-end et projets plus complexes côté architecture.
+
+---
+
+### 📊 Statistiques GitHub / GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ndnahel&theme=radical&show_icons=true&hide_border=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndnahel&layout=compact&theme=radical&hide_border=false" alt="Top Languages"/>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ndnahel&base=1670)
+
+---
+
+*Merci pour ta visite et n'hésite pas à me contacter !*
