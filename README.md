@@ -44,17 +44,6 @@ Voici les technologies avec lesquelles je travaille régulièrement :
 
 ---
 
-### 🌱 Projets Actuels & À Venir / Current & Future Projects
-
-* **Applications web full-stack** (Symfony / Vue / Nuxt)
-* **APIs REST** avec authentification
-* **Projets orientés gaming & GTA RP**
-* **Expérimentations créatives** (Three.js, interfaces interactives)
-
-> *À venir* : approfondissement du **DevOps**, optimisation back-end et projets plus complexes côté architecture.
-
----
-
 ### 📊 Statistiques GitHub / GitHub Stats
 
 <p align="center">
